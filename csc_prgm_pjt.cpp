@@ -1,8 +1,9 @@
 #include "pch.h"
+#include <iostream>
 
-using namespace System;
 
-int main(array<System::String ^> ^args)
+
+int main()
 {
     return 0;
 }
