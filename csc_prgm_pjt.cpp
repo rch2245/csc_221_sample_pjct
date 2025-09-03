@@ -1,9 +1,14 @@
-#include "pch.h"
 #include <iostream>
 
-
+using namespace std;
 
 int main()
 {
-    return 0;
+	char first, middle, last;	
+	// store yr initials in these variables
+	first = 'S';
+	middle = 'K';
+	last = 'S';
+	cout << first << middle << last << endl;
+	return 0;
 }
